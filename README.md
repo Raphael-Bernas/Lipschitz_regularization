@@ -5,3 +5,6 @@ This repository contain only the report edited during my internship at DESY - DE
 ## Code :
 
 You can find the code used for this project here : https://github.com/TimRoith/CLIP.git
+
+## Thanks :
+Thanks Tim and Martin for all your advices, help and everything.
